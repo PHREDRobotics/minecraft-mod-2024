@@ -1,4 +1,4 @@
-package com.phredrobotics.2024;
+package com.phredrobotics.minecraft2024;
 
 import net.fabricmc.api.ModInitializer;
 

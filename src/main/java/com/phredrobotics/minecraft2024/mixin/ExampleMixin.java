@@ -1,4 +1,4 @@
-package com.phredrobotics.2024.mixin;
+package com.phredrobotics.minecraft2024.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

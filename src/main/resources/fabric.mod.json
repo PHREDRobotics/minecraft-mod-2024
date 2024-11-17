@@ -16,18 +16,11 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.phredrobotics.2024.PhredMod2024"
-		],
-		"client": [
-			"com.phredrobotics.2024.PhredMod2024Client"
+			"com.phredrobotics.minecraft2024.PhredMod2024"
 		]
 	},
 	"mixins": [
-		"phredmod2024.mixins.json",
-		{
-			"config": "phredmod2024.client.mixins.json",
-			"environment": "client"
-		}
+		"phredmod2024.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",
